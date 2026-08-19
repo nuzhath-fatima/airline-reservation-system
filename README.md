@@ -32,3 +32,4 @@ Design and build a SQL-based airline reservation system that manages flights, cu
 
 ## Learning Outcome
 This project extended what I learned during the daily SQL tasks into a complete, realistic system. Building the triggers was the most valuable part — understanding how a database can react automatically to changes (a new booking or a cancellation) without needing a separate manual update each time. It also reinforced why breaking data into properly normalized tables (like a separate Seats table) prevents real problems like double-booking.
+
